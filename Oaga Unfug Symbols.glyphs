@@ -16211,6 +16211,14 @@ width = 600;
 unicode = E03A;
 }
 );
+instances = (
+{
+instanceInterpolations = {
+"D4C83A47-B598-4355-B6DA-B8B1AED8B0DD" = 1;
+};
+name = Symbols;
+}
+);
 manufacturer = "Oaga Unfug";
 manufacturerURL = oagaunfug.org;
 unitsPerEm = 1000;
