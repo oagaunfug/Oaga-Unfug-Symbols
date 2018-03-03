@@ -12373,8 +12373,8 @@ width = 800;
 unicode = E015;
 },
 {
-glyphname = uniE016;
-lastChange = "2018-03-03 13:35:56 +0000";
+glyphname = mailIcon;
+lastChange = "2018-03-03 14:26:33 +0000";
 layers = (
 {
 layerId = "D4C83A47-B598-4355-B6DA-B8B1AED8B0DD";
